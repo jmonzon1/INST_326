@@ -1,0 +1,12 @@
+AI Usage Journal
+Jimmy Monzon
+jmonzon1@terpmail.umd.edu
+Section 0201
+
+Week  1
+Durring this first week of class I actually did not have much direct experience with. I was not able to attend this week's lab 
+so I had to google how to create a txt file in github. I utilized the AI suggestion to learn how to create one and edit one on
+github.
+
+My only other experience with AI was whening talking to a friend who prompted ChatGPT about a what chocolate bar was prefered. 
+I was arguing that the consensus prefers Reesee's, while he argued Snickers was better. I was right.
