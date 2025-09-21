@@ -10,3 +10,14 @@ github.
 
 My only other experience with AI was whening talking to a friend who prompted ChatGPT about a what chocolate bar was prefered. 
 I was arguing that the consensus prefers Reesee's, while he argued Snickers was better. I was right.
+
+Week 2
+
+This week I utilized ChatGPT to brainstorm topics related to Information Retrieval and Analysis Tool for the team project charter.
+It gave us a couple ideas including social media trends, financial market analysis, and the one we agreed upon, health misinformation
+tracker.
+
+I also updated to IOS 26, so I have been messing around with apple AI to see what is new. In one of the discussion responese,
+a classmate mentioned using AI to translate, so I started asking apple AI to translate certain sentences to see how good it was. 
+It worked fine and did not struggle to translate. I also used to camera and started taking pictures of different things.
+I asked things such as who's playing after taking a picture of my tv, and who is this while pointing at one of my Dragon Ball figures.
