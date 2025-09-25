@@ -21,3 +21,8 @@ I also updated to IOS 26, so I have been messing around with apple AI to see wha
 a classmate mentioned using AI to translate, so I started asking apple AI to translate certain sentences to see how good it was. 
 It worked fine and did not struggle to translate. I also used to camera and started taking pictures of different things.
 I asked things such as who's playing after taking a picture of my tv, and who is this while pointing at one of my Dragon Ball figures.
+
+Week 3
+Slow week for AI, I tried using apple AI to find a Canes that was on my route but it did not give me anything. I was dissapointed because
+I was hoping the feature would be able to facilitate changing routes while driving. Im not sure what could have been the issue, it might have 
+not have been on the AIs end. Maybe the AI feature is not compatible with my car or it didnt hear me.
