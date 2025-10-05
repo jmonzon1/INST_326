@@ -26,3 +26,12 @@ Week 3
 Slow week for AI, I tried using apple AI to find a Canes that was on my route but it did not give me anything. I was dissapointed because
 I was hoping the feature would be able to facilitate changing routes while driving. Im not sure what could have been the issue, it might have 
 not have been on the AIs end. Maybe the AI feature is not compatible with my car or it didnt hear me.
+
+Week 4 
+Ive noticed that a lot of broadcaster now utilize AI for in game statisitics and graphics. One of the ones I 
+frequently notice is Microsofts copilot durring La Liga. It was used specifically for the heatmaps and to show 
+where the palyer's attacking lanes. 
+
+For one of the lab questions, I could not figure out why I kept failing the check. I utilized ChatGPT to check my code first and 
+then the check here: https://chatgpt.com/c/68dd3cc5-75b0-8331-9418-994ab7c7691b. I learned that there was not anything wrong with my 
+code and that the check was a little off. I did not adjust the code.
