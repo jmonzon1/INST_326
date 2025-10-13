@@ -35,3 +35,11 @@ where the palyer's attacking lanes.
 For one of the lab questions, I could not figure out why I kept failing the check. I utilized ChatGPT to check my code first and 
 then the check here: https://chatgpt.com/c/68dd3cc5-75b0-8331-9418-994ab7c7691b. I learned that there was not anything wrong with my 
 code and that the check was a little off. I did not adjust the code.
+
+Week 5
+I noticed that Spotify started recommending playlists “powered by AI,” so I tried one out. The music selection actually matched my usual taste really
+well, which surprised me. I think it’s cool how AI can learn your preferences over time and adapt to them. I also noticed YouTube automatically 
+generating video summaries and chapter titles, which made finding highlights from soccer games easier.
+
+I used ChatGPT to double-check some of my Python code before submitting the lab. Its helpful for understanding how to improve instead of just copying an answer. 
+I also experimented with Grammarly’s AI editor to polish a short writing assignment. It made the writing clearer without really changing my tone, which I liked.
