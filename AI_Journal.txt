@@ -43,3 +43,8 @@ generating video summaries and chapter titles, which made finding highlights fro
 
 I used ChatGPT to double-check some of my Python code before submitting the lab. Its helpful for understanding how to improve instead of just copying an answer. 
 I also experimented with Grammarly’s AI editor to polish a short writing assignment. It made the writing clearer without really changing my tone, which I liked.
+
+Week 6
+I asked ChatGPT to summarize an article I read last week in order to get a quick refresher: https://chatgpt.com/c/68fb80ba-3320-8325-9ac2-4467ad717f65. The 
+article is from INST366, and talks about how social games like farmville mine players' data. I read it before fall break and just needed to be reminded on the 
+key points.
