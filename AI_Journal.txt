@@ -54,3 +54,11 @@ Little AI utilized this week. Sampling bias came up in one of my other classes a
 As a result, I tested ChaptGPT by typing in spanish: https://chatgpt.com/c/6904ec5f-812c-8329-80c2-89519510a70a. I just asked it to write a program 
 that calculates the area of a cube. The response seemed concise enough but Spanish is still such a big langauge. I wonder how it would handle other 
 languages or dialects that are not seen as much online.
+
+Week 8
+I was struggling a bit with SQL aggregate functions, I utilized Claude to help me debug:https://claude.ai/share/b0ba056a-1b73-4748-962c-51625a374a65.
+I noticed my error, I was focuisng on the wrong table and struggling to finde how to link primary keys. Claude helped me pretty efficiently, I used the
+example as reference for the other questions.
+
+I also noticed after updating my office that onenote offers a lot more autofill. I assume it is AI and is more intrusive than helpful. It does have an
+option to turn it off as well.
