@@ -62,3 +62,9 @@ example as reference for the other questions.
 
 I also noticed after updating my office that onenote offers a lot more autofill. I assume it is AI and is more intrusive than helpful. It does have an
 option to turn it off as well.
+
+Week 9
+I utilized AI for my response to this weeks discussion: https://claude.ai/share/d0eae269-76bf-4167-83a6-7e0e5584103d. I chose option 3, which was to prompt
+Ai to give an example of interfaces, subclasses, and polymorphism. Claude did a really good job in providing a example relating to my projects field. It was 
+pretty basic but is a good fondation to build off of.
+
