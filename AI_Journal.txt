@@ -68,3 +68,9 @@ I utilized AI for my response to this weeks discussion: https://claude.ai/share/
 Ai to give an example of interfaces, subclasses, and polymorphism. Claude did a really good job in providing a example relating to my projects field. It was 
 pretty basic but is a good fondation to build off of.
 
+Week 10
+Not too much AI use this week. I’ve been trying to get more comfortable with SQL, so I asked ChatGPT to make up a couple practice 
+questions involving aggregates. It helped me see how the pieces fit together, and it made it easier to understand what I kept messing up on.
+
+Outside of school, I noticed Instagram has been auto-generating captions on some posts. Didn’t really pay attention to it before, but it’s kind of funny seeing AI try 
+to guess what’s happening in a random picture. Not sure how accurate it is, but it’s interesting seeing more apps quietly add AI features.
