@@ -74,3 +74,7 @@ questions involving aggregates. It helped me see how the pieces fit together, an
 
 Outside of school, I noticed Instagram has been auto-generating captions on some posts. Didn’t really pay attention to it before, but it’s kind of funny seeing AI try 
 to guess what’s happening in a random picture. Not sure how accurate it is, but it’s interesting seeing more apps quietly add AI features.
+
+Week 12
+I utilized AI to give me a brief explanation on what the electromagnetic spectrum was. As I was doing research for presentation for a different class, I
+used google's AI summary to get some context. I realized that it was pretty contradictory at times so I still utlaized the sources rather than only it's summary.
